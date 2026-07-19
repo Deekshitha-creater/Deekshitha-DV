@@ -1,6 +1,3 @@
-# Deekshitha-DV
-Passionate about AI, coding, and solving real-world problems through technology.
-
 <h1 align="center">Hi there, I'm Deekshitha </h1>
 
 <p align="center">
